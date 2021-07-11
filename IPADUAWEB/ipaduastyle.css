@@ -1,0 +1,57 @@
+*{margin:0;padding:0;}
+/* margin 0 dan padding 0 membuat tidak ada garis tepi dan garis gambar */
+body{font-family:Tw Cen MT, Viner Hand ITC, Tekton Pro;}
+
+/* selector div */
+#container{
+	width:1100px; 
+	margin:0 auto;}
+	
+#header{
+	background-image:url('header.jpg'); 
+	background-repeat:no-repeat; 
+	/* background repeat untuk mengulang background */
+	background-color:#00FFFF; 
+	background-position: center; 
+	width: 1100px;
+	height: 160px; }
+
+#menu{
+	background-color:#7FFF00;
+	font-size: 15pt;
+	text-align: center;
+	width: 1100px;
+	height: 35px; }
+
+/* unvisited link */	
+a:link{
+	background-color:#0000FF;}
+/* mouse link */
+a:hover{
+	background-color:#7FFF00;}
+/*visited link */
+a:visited{
+	background-color:##0000FF;
+	color:red;}
+	
+#konten{
+	background-color:#00FFFF;
+	width: 800px;
+	font-size: 12pt;
+	float: left; }
+	/* float = warnanya mengikuti tulisan. tidak ada tulisan warna tidak muncul */
+	
+#sisi{
+	background-color:#FFEBCD;
+	font-size: 12pt;
+	font-weight: bold;
+	width: 300px;
+	float: left; }
+	
+#footer{
+	background-color:#F0FFFF; 
+	background-position: center;
+	text-align: center;
+	font-size: 20pt;
+	width: 1100px;
+	height: 60px; }	

@@ -1,0 +1,14 @@
+<html>
+
+<head>
+<link rel="icon" type="icon" href="sasuke.ico">
+<title> TABEL </title>
+</head>
+
+<body background="bgbg.jpg" >
+<h3 align="center"><font color="purple"><marquee width=30%> FORMULIR DENGAN TABEL </marquee> </h3>
+<h1 align="center"> B  I  O  D  A  T  A </h1>
+
+<table align="center" border="1">
+<tr align="center">
+<td>
